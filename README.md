@@ -34,8 +34,6 @@
 
 ## Proxy
 
-## README.md
-
 ## Singleton
 
 ## State
