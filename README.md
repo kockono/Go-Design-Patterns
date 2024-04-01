@@ -15,6 +15,10 @@
 ## Decorator
 
 ## Facade
+- Equilibrar la complejidad y presentacion e usabilidad
+### Ejemplo
+- Una casa requiere muchos sistemas, paredes, sistema electrico, tuberías, paredes etc.
+- El usuario final no puede ver lo interno
 
 ## Factories
 
